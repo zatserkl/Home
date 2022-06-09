@@ -2,10 +2,10 @@
 
 **/
 
+!.gitignore
 !*.py
 !*.ipynb
 !README.md
-!*.sql
 
 !JupyterImages/
-!JupyterImages/**
+!JupyterImages/*
